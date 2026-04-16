@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6gLlhC0Uuh8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Data-Privacy-Bilingual-Course</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Data-Privacy-Bilingual-Course_ORG">
+    <organization identifier="Data-Privacy-Bilingual-Course_ORG">
+      <title>Data-Privacy-Bilingual-Course</title>
+      <item identifier="Data-Privacy-Bilingual-Course_SCO" isvisible="true" identifierref="__6gLlhC0Uuh8_RES">
+        <title>Data-Privacy-Bilingual-Course</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6gLlhC0Uuh8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6jdW7tuVI0k_5_48_1280x720.mp4" />
+      <file href="mobile/poster_5geDDjHHOfu_video_6jdW7tuVI0k_5_48_1280x720.jpg" />
+      <file href="mobile/poster_6V6gd6Q0h3n_video_6jdW7tuVI0k_5_48_1280x720.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6LZvnY6O6ds.png" />
+      <file href="mobile/Shape6QfNDTupa3u.png" />
+      <file href="mobile/Shape6Z8EMlET78Y.png" />
+      <file href="mobile/Shape6eIMMSSb3Fw.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aScZvS4fpZ.js" />
+      <file href="html5/data/js/5fFuQYLFZpv.js" />
+      <file href="html5/data/js/5jxChFrfLVA.js" />
+      <file href="html5/data/js/5m2SiRzg8eC.js" />
+      <file href="html5/data/js/5sdgYOqFWhZ.js" />
+      <file href="html5/data/js/608E1ypNhoJ.js" />
+      <file href="html5/data/js/624BujpQZnj.js" />
+      <file href="html5/data/js/6A14WOftS8G.js" />
+      <file href="html5/data/js/6bn0GZcGWh8.js" />
+      <file href="html5/data/js/6dFI9GhX3Ou.js" />
+      <file href="html5/data/js/6gbhoLlI7e4.js" />
+      <file href="html5/data/js/6GG932jLn66.js" />
+      <file href="html5/data/js/6hWXpKNoPug.js" />
+      <file href="html5/data/js/6jHwFJxTcmh.js" />
+      <file href="html5/data/js/6JR4ccy8vT6.js" />
+      <file href="html5/data/js/6L2lampBLWE.js" />
+      <file href="html5/data/js/6nKJe9Dq8kW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
